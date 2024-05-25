@@ -237,7 +237,7 @@ export default function Main() {
   };
   return (
     <div>
-      
+      <div><h4>Assalomu alayko'm</h4></div>
       <header className="header">
         <div className="nav-container">
           <nav>
