@@ -237,7 +237,7 @@ export default function Main() {
   };
   return (
     <div>
-      <p>Salom dunyo</p>
+      
       <header className="header">
         <div className="nav-container">
           <nav>
